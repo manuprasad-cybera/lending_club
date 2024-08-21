@@ -24,21 +24,11 @@ This information can be used by the business for risk assessment and portfolio m
 - matplotlib library
 - Io  
 
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [Upgrad]((https://learn.upgrad.com/)).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Obervation 
+*   as per dti with loan status the intrest rate  between 10 -17 have higher chance of load default 
+*   emaployee with the 10+ year experiance have higher chance of full repayment but also likely to default 
+*   large amount of loan had high chance of defaulting 
+*   barrowers with thee less annuel income between 40K to 80K likey to default where as higher annual incle are less likely 
+*   dept consolidation, small business, house  is having highest number of default and also fully repayment 
+*   people who own thw property are less likely default 
+*   deaulting loan is decreased ofter interst rate 17.5 and also increased with increasing intrest 
